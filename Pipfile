@@ -13,6 +13,7 @@ ipykernel = "*"
 opencv-python = "*"
 matplotlib = "*"
 pillow = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.9"
